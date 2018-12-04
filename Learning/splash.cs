@@ -19,7 +19,7 @@ namespace Learning
         {
             base.OnCreate(savedInstanceState);
 
-            // Create your application here
+            // Create your application here.
         }
         public override void OnBackPressed()
         {
